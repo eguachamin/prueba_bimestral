@@ -1,16 +1,8 @@
 # prueba_bimestral
 
-A new Flutter project.
+## Evvelyn Guachamin
 
-## Getting Started
+<img width="903" height="534" alt="image" src="https://github.com/user-attachments/assets/5d463311-7826-4815-9f8c-0cbf69d15eee" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="911" height="754" alt="image" src="https://github.com/user-attachments/assets/810c1faf-e8ba-4111-9332-85fb2d14d822" />
+<img width="918" height="434" alt="image" src="https://github.com/user-attachments/assets/90e853b9-01aa-4c58-8da4-72fc9a70293e" />
